@@ -1,0 +1,9 @@
+*.meta
+.vs
+Library
+Logs
+obj
+Packages
+ProjectSettings
+*.csproj
+*.sln
